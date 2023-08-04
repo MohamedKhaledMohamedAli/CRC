@@ -4,7 +4,7 @@ Implemented the CRC using LFSR which is:
     A shift register that has some of its outputs together in exclusiveOR or exclusive-NOR configurations to form a feedback path.
     The initial content of the shift register is referred to as seed.
 
-    ![image](https://github.com/MohamedKhaledMohamedAli/CRC/assets/104237865/fe42cb24-ab98-4099-91ff-f6ab34bda3a7)
+![image](https://github.com/MohamedKhaledMohamedAli/CRC/assets/104237865/fe42cb24-ab98-4099-91ff-f6ab34bda3a7)
 
 Specification
 
