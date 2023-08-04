@@ -1,5 +1,5 @@
-# CRC
-Implemented the CRC using LFSR which is:
+# CRC (Cyclic Redundancy Check)
+Implemented the CRC using LFSR (Linear Feedback Shift Register) which is:
 
     A shift register that has some of its outputs together in exclusive-OR or exclusive-NOR configurations to form a feedback path.
     The initial content of the shift register is referred to as seed.
